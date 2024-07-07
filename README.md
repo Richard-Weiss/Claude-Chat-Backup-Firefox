@@ -10,7 +10,7 @@
 - Very simple interface
 
 ## Installation
-1. Download the extension from the Firefox Addon store (link to be added when published)
+1. Download the extension from the [Firefox Addon store](https://addons.mozilla.org/en-US/firefox/addon/claude-ai-chat-backup/)
 2. Click on "Add to Firefox" to install the extension
 
 ## Usage
